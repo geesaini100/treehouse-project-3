@@ -1,2 +1,1 @@
-# treehouse-project-3
- creating a repo
+# Techdegree Project 3 (Test of Github)
